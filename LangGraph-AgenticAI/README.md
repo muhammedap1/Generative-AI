@@ -1,4 +1,4 @@
-# LangGraph Tool Integration Demo
+# Agentic AI with LangGraph
 
 A demonstration of integrating multiple external tools with LangGraph and Groq's Qwen model to create an intelligent agent that can access real-time information.
 
