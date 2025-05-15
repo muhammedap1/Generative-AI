@@ -1,5 +1,5 @@
 
-# LangGraph Chatbot with Wikipedia and Arxiv Tools (Gemma 2-9b)
+# LangGraph Chatbot with Wikipedia and Arxiv Tools
 
 This project implements a conversational AI chatbot using `LangGraph`, powered by the `Groq` LLM (Gemma2-9b-it). The chatbot is enhanced with two external tools for dynamic information retrieval:
 - **Wikipedia**: For general knowledge questions.
