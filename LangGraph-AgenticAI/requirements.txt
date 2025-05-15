@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain-community
+langchain-groq
+arxiv
+wikipedia
+typing-extensions
+pydantic
+python-dotenv
+langchain-core
